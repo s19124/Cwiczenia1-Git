@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 class program
 {
+    /*
     public void sumAverageElements(int[] arr, int size)
     {
  
@@ -18,19 +19,12 @@ class program
         Console.WriteLine("Average Of Array is : " + average);
         Console.ReadLine();
     }
-    public static void Main(string[] args)
+    */
+    
+    static void Main()
     {
-        int size;
-        Console.WriteLine("Enter the Size :");
-        size = Convert.ToInt32(Console.ReadLine());
-        int[] a = new int[size];
-        Console.WriteLine("Enter the Elements of the Array : ");
-        for (int i = 0; i < size; i++)
-        {
-            a[i] = Convert.ToInt32(Console.ReadLine());
-        }
-        int len = a.Length;
-        program pg = new program();
-        pg.sumAverageElements(a, len);
+        int[] array1 = { 10, -10, -20, 0,15,20,30 };
+        Console.WriteLine("Maximum Element : " +array1.Max());
+        Console.Read();
     }
 }
