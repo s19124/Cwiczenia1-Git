@@ -23,7 +23,8 @@ class program
     
     static void Main()
     {
-        int[] array1 = { 10, -10, -20, 0,15,20,30 };
+        
+        int[] array1 = { 10, -10, -20, 0,15,20,30, 40, 50, 60};
         Console.WriteLine("Maximum Element : " +array1.Max());
         Console.Read();
     }

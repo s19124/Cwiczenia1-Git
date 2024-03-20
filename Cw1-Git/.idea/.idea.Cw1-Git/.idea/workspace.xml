@@ -32,7 +32,7 @@
     ".NET Project.Cw1-Git.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "feature-average",
+    "git-widget-placeholder": "feature-max",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -78,7 +78,7 @@
       <updated>1710973784687</updated>
       <workItem from="1710973786032" duration="44000" />
       <workItem from="1710974262730" duration="181000" />
-      <workItem from="1710974937661" duration="1151000" />
+      <workItem from="1710974937661" duration="1326000" />
     </task>
     <servers />
   </component>
